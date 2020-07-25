@@ -1,4 +1,4 @@
-<img src="./assets/cover.png">
+<img src="https://raw.githubusercontent.com/rampa2510/rampa2510/master/assets/cover.png">
 
 ## Hello World I am Ram Pandey 
 <p align="center">
