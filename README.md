@@ -1,12 +1,23 @@
+<img src="./assets/cover.png">
+
 ## Hello World I am Ram Pandey 
+<p align="center">
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampa2510)
+[![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/rampa2510)
+[![spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white")](https://open.spotify.com/user/r4015guf6sr3rdeb0jmhu67j4?si=WS8FHo4eSMWn2PvIv4UQ3A)
+![Visits Badge](https://badges.pufler.dev/visits/rampa2510/rampa2510?style=for-the-badge ) 
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=iamram2510@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/ram2510) 
+<p>
 I am Ram Pandey currently pursuing a degree in computer engineering. I have a keen interest in software development. I can code in Python, PHP , javascript, c++ and golang.  
 
-- 🔭 I’m currently working on CMPN department dashboard
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on ML projects
 - 💬 Ask me about Software developent
+<p align="center">
 
-![Ram github stats](https://github-readme-stats.vercel.app/api?username=rampa2510&show_icons=true&title_color=fff&icon_color=79ff97&text_color=FFDD3D&bg_color=151515)
-<br>
+![Ram github stats](https://github-readme-stats.vercel.app/api?username=rampa2510&show_icons=true&theme=dracula)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rampa2510&hide=Jupyter Notebook&theme=tokyonight">
+</p>
 
- [![linkedin](https://img.shields.io/badge/connect%20with%20me-linkedIn-green.svg?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/ram2510)   [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=iamram2510@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/ram2510) 
