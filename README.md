@@ -15,6 +15,7 @@ I am Ram Pandey currently pursuing a degree in computer engineering. I have a ke
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on ML projects
 - 💬 Ask me about Software developent
+- ⚡ Fun fact: The BIO says Apna Time Layga (English Translation - I will craft my own destiny)
 <p align="center">
 
 ![Ram github stats](https://github-readme-stats.vercel.app/api?username=rampa2510&show_icons=true&theme=dracula)
