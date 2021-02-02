@@ -3,6 +3,7 @@
 ## Hello World I am Ram Pandey 
 <p align="center">
 
+![Metrics](https://metrics.lecoq.io/rampa2510?template=classic&activity=1&pagespeed=1&activity.limit=5&activity.days=14&activity.filter=all&pagespeed.url=rampa2510.github.io&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Asia%2FCalcutta&config.animated=true)
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rampa2510)
 [![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/rampa2510)
@@ -21,4 +22,3 @@ I am Ram Pandey currently pursuing a degree in computer engineering. I have a ke
 ![Ram github stats](https://github-readme-stats.vercel.app/api?username=rampa2510&show_icons=true&theme=dracula)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rampa2510&hide=Jupyter Notebook&theme=tokyonight">
 </p>
-
