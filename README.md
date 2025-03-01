@@ -18,5 +18,6 @@ I am Ram Pandey currently pursuing a degree in computer engineering. I have a ke
 <p align="center">
 
 ![Ram github stats](https://github-readme-stats.vercel.app/api?username=rampa2510&show_icons=true&theme=dracula)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rampa2510&hide=Jupyter Notebook&theme=tokyonight">
+<br />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rampa2510&theme=tokyonight">
 </p>
